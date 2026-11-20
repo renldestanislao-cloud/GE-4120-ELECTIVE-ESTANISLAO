@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/renee.jpg" alt="Profile photo of [Your Full Name]" width="180" style="border-radius:50%"/>
+<img src="Assets/renee.jpg" alt="Profile photo of [Your Full Name]" width="180" style="border-radius:50%"/>
 
 # GE 4120 ELECTIVE
 
